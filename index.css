@@ -1,0 +1,11 @@
+body{
+    margin:0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height:100vh;
+    background:linear-gradient(#50399a,#1d1730)
+}
+
+code{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
